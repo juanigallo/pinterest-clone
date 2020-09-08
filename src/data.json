@@ -1,0 +1,32 @@
+[
+  {
+    "_id": 1,
+    "img": "https://i.pinimg.com/236x/aa/62/8e/aa628e79d151e3ce21936a0bafc8da4c.jpg",
+    "name": "Cuarto blanco"
+  },
+  {
+    "_id": 2,
+    "img": "https://i.pinimg.com/236x/d9/03/f5/d903f51bdc3b8c12da48878959705cd6.jpg",
+    "name": "Algo chino"
+  },
+  {
+    "_id": 3,
+    "img": "https://i.pinimg.com/236x/2f/e5/e0/2fe5e0926f6b9e9d01cc47daac2f71fc.jpg",
+    "name": "Zapatillas"
+  },
+  {
+    "_id": 4,
+    "img": "https://i.pinimg.com/236x/aa/62/8e/aa628e79d151e3ce21936a0bafc8da4c.jpg",
+    "name": "Cuarto blanco"
+  },
+  {
+    "_id": 5,
+    "img": "https://i.pinimg.com/236x/d9/03/f5/d903f51bdc3b8c12da48878959705cd6.jpg",
+    "name": "Algo chino"
+  },
+  {
+    "_id": 6,
+    "img": "https://i.pinimg.com/236x/2f/e5/e0/2fe5e0926f6b9e9d01cc47daac2f71fc.jpg",
+    "name": "Zapatillas"
+  }
+]

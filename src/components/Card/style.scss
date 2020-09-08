@@ -1,0 +1,24 @@
+.cardContainer {
+  display: inline-block;
+  margin: 5px;
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative;
+  cursor: pointer;
+  &:hover {
+    .dataContainer {
+      opacity: 0.5;
+      transition: all 0.25s;
+    }
+  }
+  .dataContainer {
+    position: absolute;
+    bottom: 0;
+    opacity: 0;
+    width: 100%;
+    background-color: #fff;
+    text-align: center;
+    font-weight: bold;
+    transition: all 0.25s;
+  }
+}
