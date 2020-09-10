@@ -13,7 +13,7 @@ function List(props) {
   }, []);
 
   async function fetchData() {
-    const getCards = await fetch("http://localhost:3001/api/card");
+    const getCards = await fetch("http://104.248.121.60/api/card");
     const cards = await getCards.json();
     setCards(cards);
   }
